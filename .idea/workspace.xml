@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="596fca4d-049c-45c5-8365-b61a8bf78422" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CharteringManagement$login__1_.coverage" NAME="login (1) Coverage Results" MODIFIED="1508207774842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CharteringManagement$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1508206911148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/media/johann/5E9EF4C89EF499AB/PycharmProjects/Login Form" />
+    <SUITE FILE_PATH="coverage/CharteringManagement$main.coverage" NAME="main Coverage Results" MODIFIED="1508206385647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CharteringManagement$Qmain.coverage" NAME="Qmain Coverage Results" MODIFIED="1507517073590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/文档" />
+    <SUITE FILE_PATH="coverage/CharteringManagement$chartering_main.coverage" NAME="chartering_main Coverage Results" MODIFIED="1507518516976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/文档" />
+    <SUITE FILE_PATH="coverage/CharteringManagement$mainWindow.coverage" NAME="mainWindow Coverage Results" MODIFIED="1508206997144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm" />
+    <SUITE FILE_PATH="coverage/CharteringManagement$signup.coverage" NAME="signup Coverage Results" MODIFIED="1508207350738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CharteringManagement$login.coverage" NAME="login Coverage Results" MODIFIED="1508207549815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm" />
+    <SUITE FILE_PATH="coverage/CharteringManagement$init_login_db.coverage" NAME="init_login_db Coverage Results" MODIFIED="1508207183510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CharteringManagement$init_db.coverage" NAME="init_db Coverage Results" MODIFIED="1507516264556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7905">
+              <caret line="531" column="65" lean-forward="false" selection-start-line="531" selection-start-column="65" selection-end-line="531" selection-end-column="65" />
+              <folding>
+                <element signature="e#25516#26942#0" expanded="false" />
+                <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+                <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+                <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+                <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+                <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+                <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+                <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+                <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+                <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+                <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+                <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+                <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+                <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+                <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+                <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init_login_db.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/init_login_db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1507028050000" expanded="true" signature="121:147" ph="DROP TABLE I... " />
+                <marker date="1507028050000" expanded="true" signature="158:312" ph="CREATE TABLE... Users" />
+                <marker date="1507028050000" expanded="true" signature="376:428" ph="INSERT INTO Users... " />
+                <marker date="1507028050000" expanded="true" signature="527:546" ph="SELECT * FRO... USERS" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/signup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init_db.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/init_db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding>
+                <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+                <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+                <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+                <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+                <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+                <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>textedit</find>
+      <find>rent</find>
+      <find>retranslateUi</find>
+      <find>rent_btn</find>
+      <find>text</find>
+      <find>QTextEdit</find>
+      <find>show_available_vessels</find>
+      <find>scrollArea</find>
+      <find>charter_btn</find>
+      <find>exit</find>
+      <find>textEdit</find>
+      <find>order_btn</find>
+      <find>pushButton</find>
+      <find>show_btn</find>
+      <find>confirm_btn</find>
+      <find>under</find>
+      <find>combo</find>
+      <find>vessel state</find>
+      <find>order_show_btn</find>
+      <find>horizontalLayout</find>
+      <find>checkBox</find>
+      <find>add_new</find>
+      <find>vessel_show</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$USER_HOME$/文档/Qmain.py" />
+        <option value="$USER_HOME$/文档/chartering_main.py" />
+        <option value="$PROJECT_DIR$/a.py" />
+        <option value="$PROJECT_DIR$/init_db.py" />
+        <option value="$USER_HOME$/文档/test2.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="/media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm/init_login_db.py" />
+        <option value="$PROJECT_DIR$/login.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="374" />
+    <option name="y" value="53" />
+    <option name="width" value="1314" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CharteringManagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CharteringManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.login (1)">
+    <configuration name="init_login_db" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CharteringManagement" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/init_login_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="login (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CharteringManagement" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CharteringManagement" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CharteringManagement" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="signup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CharteringManagement" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/signup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.login" />
+      <item index="1" class="java.lang.String" itemvalue="Python.init_login_db" />
+      <item index="2" class="java.lang.String" itemvalue="Python.login (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.signup" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.login (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.login" />
+        <item index="3" class="java.lang.String" itemvalue="Python.signup" />
+        <item index="4" class="java.lang.String" itemvalue="Python.init_login_db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="596fca4d-049c-45c5-8365-b61a8bf78422" name="Default" comment="" />
+      <created>1507467574564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507467574564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09739583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14345549" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39790577" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///media/johann/5E9EF4C89EF499AB/PycharmProjects/Login Form/welcome.py" />
+    <entry file="file:///media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm/mainWindow.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="531" column="65" lean-forward="false" selection-start-line="531" selection-start-column="65" selection-end-line="531" selection-end-column="65" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_login_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507028050000" expanded="true" signature="121:147" ph="DROP TABLE I... " />
+            <marker date="1507028050000" expanded="true" signature="158:312" ph="CREATE TABLE... Users" />
+            <marker date="1507028050000" expanded="true" signature="376:428" ph="INSERT INTO Users... " />
+            <marker date="1507028050000" expanded="true" signature="527:546" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm/login.py" />
+    <entry file="file://$PROJECT_DIR$/signup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_login_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507028050000" expanded="true" signature="121:147" ph="DROP TABLE I... " />
+            <marker date="1507028050000" expanded="true" signature="158:312" ph="CREATE TABLE... Users" />
+            <marker date="1507028050000" expanded="true" signature="376:428" ph="INSERT INTO Users... " />
+            <marker date="1507028050000" expanded="true" signature="527:546" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7905">
+          <caret line="531" column="65" lean-forward="false" selection-start-line="531" selection-start-column="65" selection-end-line="531" selection-end-column="65" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_login_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507028050000" expanded="true" signature="121:147" ph="DROP TABLE I... " />
+            <marker date="1507028050000" expanded="true" signature="158:312" ph="CREATE TABLE... Users" />
+            <marker date="1507028050000" expanded="true" signature="376:428" ph="INSERT INTO Users... " />
+            <marker date="1507028050000" expanded="true" signature="527:546" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="80" lean-forward="false" selection-start-line="28" selection-start-column="80" selection-end-line="28" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="70" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="70" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8025">
+          <caret line="535" column="45" lean-forward="false" selection-start-line="535" selection-start-column="45" selection-end-line="535" selection-end-column="45" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="70" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="70" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/文档/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4065">
+          <caret line="275" column="0" lean-forward="false" selection-start-line="275" selection-start-column="0" selection-end-line="275" selection-end-column="0" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3255">
+          <caret line="221" column="49" lean-forward="false" selection-start-line="221" selection-start-column="49" selection-end-line="221" selection-end-column="49" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$USER_HOME$/文档/Qmain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/文档/chartering_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="60" lean-forward="false" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py" />
+    <entry file="file://$PROJECT_DIR$/QmainWin.ui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/文档/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="365" column="8" lean-forward="false" selection-start-line="365" selection-start-column="8" selection-end-line="365" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/johann/5E9EF4C89EF499AB/PycharmProjects/Login Form/welcome.py" />
+    <entry file="file:///media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm/mainWindow.py" />
+    <entry file="file://$PROJECT_DIR$/init_login_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507028050000" expanded="true" signature="121:147" ph="DROP TABLE I... " />
+            <marker date="1507028050000" expanded="true" signature="158:312" ph="CREATE TABLE... Users" />
+            <marker date="1507028050000" expanded="true" signature="376:428" ph="INSERT INTO Users... " />
+            <marker date="1507028050000" expanded="true" signature="527:546" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm/signup.py" />
+    <entry file="file:///media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm/init_login_db.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7905">
+          <caret line="531" column="65" lean-forward="false" selection-start-line="531" selection-start-column="65" selection-end-line="531" selection-end-column="65" />
+          <folding>
+            <element signature="e#25516#26942#0" expanded="false" />
+            <marker date="1507562807611" expanded="true" signature="468:503" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22503:22541" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="22704:22818" ph="INSERT INTO Orders... " />
+            <marker date="1507562807611" expanded="true" signature="22865:22903" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="23578:23616" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="23794:23891" ph="UPDATE Order... " />
+            <marker date="1507562807611" expanded="true" signature="23956:23994" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="24662:24683" ph="SELECT state... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="25300:25336" ph="INSERT INTO Vessels... " />
+            <marker date="1507562807611" expanded="true" signature="25927:25965" ph="UPDATE Vesse... " />
+            <marker date="1507562807611" expanded="true" signature="26145:26166" ph="SELECT * FRO... Vessels" />
+            <marker date="1507562807611" expanded="true" signature="27125:27145" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="28492:28525" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="29348:29384" ph="SELECT * FRO... Orders" />
+            <marker date="1507562807611" expanded="true" signature="30456:30496" ph="SELECT * FRO... Orders" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <marker date="1507531591347" expanded="true" signature="122:150" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="154:181" ph="DROP TABLE I... " />
+            <marker date="1507531591347" expanded="true" signature="190:298" ph="CREATE TABLE... Vessels" />
+            <marker date="1507531591347" expanded="true" signature="308:476" ph="CREATE TABLE... Orders" />
+            <marker date="1507531591347" expanded="true" signature="541:577" ph="INSERT INTO Vessels... " />
+            <marker date="1507531591347" expanded="true" signature="644:665" ph="SELECT * FRO... USERS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/johann/5E9EF4C89EF499AB/PycharmProjects/pyqt5/LoginForm/login.py" />
+  </component>
+</project>
